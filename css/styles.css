@@ -6,4 +6,8 @@ body {
     font: bold 120px 'Cooper Black', 'Cooper Std', 'Cooper Std Black', sans-serif;
     text-align: center;
     color: white;
-    margin:
+}
+
+#headline {
+    font-size: 15rem;
+}
